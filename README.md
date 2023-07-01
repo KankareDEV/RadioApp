@@ -9,6 +9,6 @@ Looking back, I can't help but think about the features I'd love to add if I had
 Overall, I'm really proud of how this app turned out, and I hope you enjoy using it as much as I enjoyed creating it! 😄
 
 ## Demo
-<img align="right" alt="Coding" width="400" src="https://github.com/KankareDEV/RadioApp/blob/main/giff.gif">
-<img align="left" alt="Coding" width="400" src="https://github.com/KankareDEV/RadioApp/blob/main/giff2.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/KankareDEV/RadioApp/blob/main/giff2.gif">
+<img align="left" alt="Coding" width="400" src="https://github.com/KankareDEV/RadioApp/blob/main/giff.gif">
 
