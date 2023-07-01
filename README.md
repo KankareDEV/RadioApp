@@ -1,16 +1,14 @@
-# radio_project
 
-A new Flutter project.
+## Flutter Radio Project
+I'm excited to share my Flutter RadioApp with you! It was quite a journey to create this app, taking me nearly 9 hours of hard work. The biggest challenge was finding a reliable Radio Station API, but after some extensive searching, I stumbled upon a fantastic audio API on the internet that saved the day.
 
-## Getting Started
+During the development process, I had a blast adding a cool animation feature that showcases animated cards when you launch the app and move the cards. I wanted to keep the app's design clean and uncluttered, so I focused on simplicity to ensure a seamless user experience.
 
-This project is a starting point for a Flutter application.
+Looking back, I can't help but think about the features I'd love to add if I had more time. One idea that comes to mind is incorporating a "Favorites" button. It would make it easier for users to quickly access their most beloved stations or cherished music from the list.
 
-A few resources to get you started if this is your first Flutter project:
+Overall, I'm really proud of how this app turned out, and I hope you enjoy using it as much as I enjoyed creating it! 😄
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo
+<img align="right" alt="Coding" width="400" src="https://github.com/KankareDEV/RadioApp/blob/main/giff1.gif">
+<img align="left" alt="Coding" width="400" src="https://github.com/KankareDEV/RadioApp/blob/main/giff2.gif">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
